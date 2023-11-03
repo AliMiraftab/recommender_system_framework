@@ -1,0 +1,5 @@
+  mlflow==2.3
+  scikit-learn==0.23.2
+  cloudpickle==1.6.0
+  lightgbm
+  tensorflow
